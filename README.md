@@ -1,5 +1,5 @@
 # isArrayDemo
-A project going through too much effort to show how an NPM module 'isArray' can return a false positive
+A project going through too much effort to show how an NPM module 'isArray' can return a false positive, utilizing Mozilla's Java based JavaScript engine Rhino
 
 ### Build
 Have Maven and Java 8 installed on your machine, and use the command
